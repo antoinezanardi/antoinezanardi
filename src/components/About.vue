@@ -68,8 +68,8 @@
                             <div class="row mt-3 align-items-center">
                                 <div class="col-sm-4"><strong class="text-uppercase">Permis:</strong></div>
                                 <div class="col-sm-8">
-                                    <i class="fa fa-car fa-2x mr-2"></i>
-                                    <i class="fa fa-anchor fa-2x"></i>
+                                    <i data-toggle="tooltip" title="Voiture" class="fa fa-car fa-2x mr-2"></i>
+                                    <i data-toggle="tooltip" title="Bateau" class="fa fa-anchor fa-2x"></i>
                                 </div>
                             </div>
                             <div class="row mt-3">

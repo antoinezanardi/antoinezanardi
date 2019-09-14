@@ -16,7 +16,7 @@
                         <p class="category text-white text-shadow">Expert Web Full-Stack</p>
                         <!--            <a class="btn btn-primary smooth-scroll mr-2" href="#contact" data-aos="zoom-in"-->
                         <!--               data-aos-anchor="data-aos-anchor" v-smooth-scroll="{ duration: 1000 }">Me contacter</a>-->
-                        <a id="my-cv" class="btn btn-primary" href="#" data-aos="zoom-in" data-aos-anchor="data-aos-anchor">
+                        <a id="my-cv" class="btn btn-primary" href="CV.pdf" download="CV Antoine ZANARDI.pdf" data-aos="zoom-in" data-aos-anchor="data-aos-anchor">
                             Mon CV
                         </a>
                     </div>
