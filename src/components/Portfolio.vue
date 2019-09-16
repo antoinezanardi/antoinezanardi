@@ -3,7 +3,10 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-6 ml-auto mr-auto">
-                    <div class="h4 text-center mb-4 title">Portfolio</div>
+                    <div class="h4 text-center mb-4 title">
+                        <i class="fa fa-star"></i>
+                        Portfolio
+                    </div>
                     <!--<div class="nav-align-center">-->
                     <!--<ul class="nav nav-pills nav-pills-primary" role="tablist">-->
                     <!--<li class="nav-item"><a class="nav-link active" data-toggle="tab" href="#web-development" role="tablist"><i class="fa fa-laptop" aria-hidden="true"></i></a></li>-->
@@ -13,7 +16,7 @@
                     <!--</div>-->
                 </div>
             </div>
-            <div class="tab-content gallery mt-5">
+            <div class="tab-content gallery">
                 <div class="tab-pane active" id="web-development">
                     <div class="ml-auto mr-auto">
                         <div class="row">
