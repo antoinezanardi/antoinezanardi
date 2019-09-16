@@ -22,14 +22,12 @@ import Skills from "./components/Skills";
 import Portfolio from "./components/Portfolio";
 import Experience from "./components/Experience";
 import Education from "./components/Education";
-import Contact from "./components/Contact";
 import Footer from "./components/Footer";
 
 export default {
     name: "app",
     components: {
         Footer,
-        Contact,
         Education,
         Experience,
         Portfolio,

@@ -3,7 +3,7 @@
         <div class="wrapper">
             <div class="page-header page-header-small" data-fiter-color="green">
                 <div class="page-header-image" data-parallax="true"
-                     :style="{'background-image': `url(${profileBackground})`}"></div>
+                     :style="{ 'background-image': `url(${profileBackground})` }"></div>
                 <div class="container">
                     <div class="content-center">
                         <div class="cc-profile-image">
@@ -54,7 +54,9 @@ export default {
 </script>
 
 <style scoped>
+
     .title {
+        margin-top: 5px !important;
         border-bottom: white solid 1px;
         margin-bottom: 35px;
         padding-bottom: 10px;
