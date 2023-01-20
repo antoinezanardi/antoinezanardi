@@ -1,4 +1,4 @@
-## ☕️ Glad to see you here, make yourself at home
+## ☕️&nbsp;&nbsp;Glad to see you here, make yourself at home
 
 Hi 👋🏼 ! I'm **Antoine ZANARDI**, an happy and proud ✨ **Web FullStack Developer** ✨ for several years now. 
 
@@ -8,38 +8,44 @@ Big fan of **Vue 3** <img src="https://upload.wikimedia.org/wikipedia/commons/th
 
 Want to know more about me ? Take a look at <a href="https://antoinezanardi.fr" target="_blank">my portfolio</a> to see all of my skills and experiences.
 
-## 🌟 Take a look at my daily fancy tools
+---
 
-#### 🔧 Programming languages
+## 🌟&nbsp;&nbsp;Take a look at my daily fancy tools
+  
+##### 🔧&nbsp;&nbsp;&nbsp;Programming languages
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
+  
+##### 🎨&nbsp;&nbsp;&nbsp;Front-end technologies
 
-#### 🎨 Front-end technologies
-
-![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3&logoColor=blue)
 ![Vue](https://img.shields.io/badge/-Vue3-black?style=flat-square&logo=vue.js)
 ![Nuxt](https://img.shields.io/badge/-Nuxt3-black?style=flat-square&logo=nuxt.js)
 ![Cypress](https://img.shields.io/badge/-Cypress-black?style=flat-square&logo=cypress)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
 
-#### ⚙️ Back-end technologies
+##### ⚙️&nbsp;&nbsp;&nbsp;Back-end technologies
 
-![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)
 ![NestJS](https://img.shields.io/badge/-NestJS-black?style=flat-square&logo=nestjs&logoColor=red)
 ![Jest](https://img.shields.io/badge/-Jest-black?style=flat-square&logo=jest)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 
-#### 🌥️ Cloud providers
+##### 🌥️&nbsp;&nbsp;&nbsp;Cloud providers
 
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
 
-#### 🪣 Code hosting platforms
+##### 🪣&nbsp;&nbsp;&nbsp;Code hosting solutions
 
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-black?style=flat-square&logo=gitlab)
+
+---
+
+## 🎆&nbsp;&nbsp;I made awesome open-source projects ! You can check them just right here&nbsp;&nbsp;⬇️
