@@ -8,6 +8,8 @@ Big fan of **Vue 3** <img src="https://upload.wikimedia.org/wikipedia/commons/th
 
 Want to know more about me ? Take a look at <a href="https://antoinezanardi.fr" target="_blank">my portfolio</a> to see all of my skills and experiences.
 
+![FollowMe](https://img.shields.io/github/followers/antoinezanardi?label=Follow%20me%20%21&style=social)
+
 ---
 
 ## 🌟&nbsp;&nbsp;Take a look at my daily fancy tools
