@@ -52,4 +52,6 @@ Want to know more about me ? Take a look at <a href="https://antoinezanardi.fr" 
 
 ---
 
-## 🎆&nbsp;&nbsp;I made awesome open-source projects ! You can check them just right here&nbsp;&nbsp;⬇️
+## 🎆&nbsp;&nbsp;Want to see more ? Here are my stats 👇
+
+![Metrics](/github-metrics.svg)
