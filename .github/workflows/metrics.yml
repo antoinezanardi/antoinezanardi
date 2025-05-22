@@ -9,7 +9,7 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: lowlighter/metrics@projects-v2
+      - uses: stalomeow/metrics@projects-v2
         with:
           token: ${{ secrets.METRICS_SECRET }}
           user: antoinezanardi
