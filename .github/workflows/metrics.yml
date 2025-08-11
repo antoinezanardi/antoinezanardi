@@ -36,4 +36,4 @@ jobs:
           plugin_repositories: yes
           plugin_repositories_featured: antoinezanardi.fr,werewolves-assistant-api-next,werewolves-assistant-web-next
           plugin_repositories_order: featured, pinned, starred, random
-          plugin_fortune: yes
+          plugin_stargazers: yes
