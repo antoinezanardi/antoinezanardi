@@ -31,10 +31,10 @@ Want to know more about me ? Take a look at <a href="https://antoinezanardi.fr" 
 ##### 🎨&nbsp;&nbsp;&nbsp;Front-end technologies
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3&logoColor=blue)
+![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css)
 ![Sass](https://img.shields.io/badge/-Sass-black?style=flat-square&logo=sass)
 ![Vue](https://img.shields.io/badge/-Vue3-black?style=flat-square&logo=vue.js)
-![Nuxt](https://img.shields.io/badge/-Nuxt3-black?style=flat-square&logo=nuxt.js)
+![Nuxt](https://img.shields.io/badge/-Nuxt3-black?style=flat-square&logo=nuxt)
 ![Vite](https://img.shields.io/badge/-Vite-black?style=flat-square&logo=vite)
 ![Playwright](https://img.shields.io/badge/-Playwright-black?style=flat-square&logo=paddle)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
