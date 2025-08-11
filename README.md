@@ -10,6 +10,8 @@ Big fan of **Vue 3** <img src="https://upload.wikimedia.org/wikipedia/commons/th
 
 My back-end projects are mostly REST APIs powered by  **NestJS** <img src="https://docs.nestjs.com/assets/logo-small.svg" alt="nestJs" width=15 height=auto/> and **Fastify**.
 
+Currently learning **Rust** <img src="https://www.rust-lang.org/logos/rust-logo-64x64.png" alt="rust" width=15 height=auto/> to improve my skills and keep up with the latest trends in web development.
+
 Want to know more about me ? Take a look at <a href="https://antoinezanardi.fr" target="_blank">my portfolio</a> to see all of my skills and experiences.
 
 [![Follow Me](https://img.shields.io/github/followers/antoinezanardi?label=Follow%20me%20on%20the%20left%20column%20%20👈&style=social)](#)
@@ -23,6 +25,7 @@ Want to know more about me ? Take a look at <a href="https://antoinezanardi.fr" 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
+![Rust](https://img.shields.io/badge/-Rust-black?style=flat-square&logo=rust)
 ![Shell](https://img.shields.io/badge/-Shell-black?style=flat-square&logo=gnu-bash)
   
 ##### 🎨&nbsp;&nbsp;&nbsp;Front-end technologies
