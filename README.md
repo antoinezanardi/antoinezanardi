@@ -1,68 +1,82 @@
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Antoine%20ZANARDI&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Web%20FullStack%20Developer&descSize=20&descAlignY=60" alt="Antoine ZANARDI - Web FullStack Developer" width="100%"/>
+
+<a href="https://github.com/antoinezanardi">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=8B5CF6&center=true&vCenter=true&width=640&lines=Hi+%F0%9F%91%8B%F0%9F%8F%BC+glad+to+see+you+here!;Vue+3+%C2%B7+Nuxt+4+%C2%B7+Vite+%E2%9C%A8;NestJS+%C2%B7+Fastify+%E2%9A%A1;Currently+learning+Rust+%F0%9F%A6%80" alt="Typing animation"/>
+</a>
+
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-antoinezanardi.fr-8B5CF6?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://antoinezanardi.fr)
+[![Follow](https://img.shields.io/github/followers/antoinezanardi?label=Follow%20me&style=for-the-badge&logo=github)](https://github.com/antoinezanardi?tab=followers)
+
+</div>
+
 ## ☕️&nbsp;&nbsp;Glad to see you here, make yourself at home
 
-Hi 👋🏼 ! I'm **Antoine ZANARDI**, a happy and proud ✨ **Web FullStack Developer** ✨ for several years now. 
+Hi 👋🏼 ! I'm **Antoine ZANARDI**, a happy and proud ✨ **Web FullStack Developer** ✨ for several years now. I like to contribute upstream to the tools I use (Nuxt, Vitest, Stryker, Oxc...).
 
-I'm the creator of the **[🐺 Werewolves Assistant](https://werewolves-assistant.com)**, a web application to help you play the famous game of Werewolves of Millers Hollow with your friends as the Game Master.
-
-My main markup / styling / programming languages are **HTML** <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/640px-HTML5_logo_and_wordmark.svg.png" alt="html" width=15 height=auto/>, **Sass** <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/2560px-Sass_Logo_Color.svg.png" alt="sass" width=15 height=auto/>, and **TypeScript** <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" alt="sass" width=15 height=auto/>.
-
-Big fan of **Vue 3** <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/2367px-Vue.js_Logo_2.svg.png" alt="vue" width=15 height=auto/> and **Nuxt 3** <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Nuxt_logo.svg/2560px-Nuxt_logo.svg.png" alt="nuxt" width=15 height=auto/> with **Vite** <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Vitejs-logo.svg/1039px-Vitejs-logo.svg.png" alt="vite" width=15 height=auto/> for building my front-end projects. 
-
-My back-end projects are mostly REST APIs powered by  **NestJS** <img src="https://docs.nestjs.com/assets/logo-small.svg" alt="nestJs" width=15 height=auto/> and **Fastify**.
-
-Currently learning **Rust** <img src="https://www.rust-lang.org/logos/rust-logo-64x64.png" alt="rust" width=15 height=auto/> to improve my skills and keep up with the latest trends in web development.
-
-Want to know more about me ? Take a look at <a href="https://antoinezanardi.fr" target="_blank">my portfolio</a> to see all of my skills and experiences.
-
-[![Follow Me](https://img.shields.io/github/followers/antoinezanardi?label=Follow%20me%20on%20the%20left%20column%20%20👈&style=social)](#)
+| 🔭 Building | 🌱 Learning | 💬 Ask me about |
+|:---:|:---:|:---:|
+| [Goat It](https://goat-it.fr) 🐐 | Rust 🦀 | Vue, Nuxt, NestJS, testing |
 
 ---
 
-## 🌟&nbsp;&nbsp;Take a look at my daily fancy tools
-  
-##### 🔧&nbsp;&nbsp;&nbsp;Programming languages
+## 🚀&nbsp;&nbsp;Featured projects
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
-![Rust](https://img.shields.io/badge/-Rust-black?style=flat-square&logo=rust)
-![Shell](https://img.shields.io/badge/-Shell-black?style=flat-square&logo=gnu-bash)
-  
-##### 🎨&nbsp;&nbsp;&nbsp;Front-end technologies
+<table>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <a href="https://goat-it.fr"><img src="assets/goat-it.png" alt="Goat It" width="100%"/></a>
+      <h3><a href="https://goat-it.fr">🐐 Goat It</a></h3>
+      <p>The game where the answer is guessed. You don't need to know everything, you just need to ask the right questions.</p>
+      <p>
+        <a href="https://github.com/antoinezanardi/goat-it-web-game"><img src="https://img.shields.io/github/stars/antoinezanardi/goat-it-web-game?style=flat-square&logo=github&label=Web%20Game" alt="Web Game stars"/></a>
+        <a href="https://github.com/antoinezanardi/goat-it-api"><img src="https://img.shields.io/github/stars/antoinezanardi/goat-it-api?style=flat-square&logo=github&label=API" alt="API stars"/></a>
+        <a href="https://github.com/antoinezanardi/goat-it-web-admin"><img src="https://img.shields.io/github/stars/antoinezanardi/goat-it-web-admin?style=flat-square&logo=github&label=Web%20Admin" alt="Web Admin stars"/></a>
+      </p>
+      <p><img src="https://skillicons.dev/icons?i=nuxt,vue,ts,nestjs,mongodb" alt="Goat It stack"/></p>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <a href="https://werewolves-assistant.com"><img src="assets/werewolves.png" alt="Werewolves Assistant" width="100%"/></a>
+      <h3><a href="https://werewolves-assistant.com">🐺 Werewolves Assistant</a></h3>
+      <p>The perfect tool for game masters of the Werewolves of Miller's Hollow™.</p>
+      <p><img src="https://skillicons.dev/icons?i=nuxt,vue,ts,nestjs,mongodb" alt="Werewolves Assistant stack"/></p>
+    </td>
+  </tr>
+</table>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css)
-![Sass](https://img.shields.io/badge/-Sass-black?style=flat-square&logo=sass)
-![Vue](https://img.shields.io/badge/-Vue3-black?style=flat-square&logo=vue.js)
-![Nuxt](https://img.shields.io/badge/-Nuxt3-black?style=flat-square&logo=nuxt)
-![Vite](https://img.shields.io/badge/-Vite-black?style=flat-square&logo=vite)
-![Playwright](https://img.shields.io/badge/-Playwright-black?style=flat-square&logo=paddle)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-black?style=flat-square&logo=tailwindcss)
+---
 
-##### ⚙️&nbsp;&nbsp;&nbsp;Back-end technologies
+## 🌟&nbsp;&nbsp;My daily fancy tools
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)
-![NestJS](https://img.shields.io/badge/-NestJS-black?style=flat-square&logo=nestjs&logoColor=red)
-![Fastify](https://img.shields.io/badge/-Fastify-black?style=flat-square&logo=fastify)
-![Jest](https://img.shields.io/badge/-Jest-black?style=flat-square&logo=jest)
-![Vitest](https://img.shields.io/badge/-Vitest-black?style=flat-square&logo=vitest)
-![Stryker](https://img.shields.io/badge/-Stryker-black?style=flat-square&logo=stryker)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+<div align="center">
 
-##### 🌥️&nbsp;&nbsp;&nbsp;Cloud providers & services
+<img src="https://skillicons.dev/icons?i=js,ts,nodejs,rust,bash,html,css,sass&perline=8" alt="Languages"/>
+<br/>
+<img src="https://skillicons.dev/icons?i=vue,nuxt,vite,bootstrap,tailwind,vitest&perline=8" alt="Front-end & testing"/>
+<br/>
+<img src="https://skillicons.dev/icons?i=nestjs,express,mongodb,postgres,mysql&perline=8" alt="Back-end & databases"/>
+<br/>
+<img src="https://skillicons.dev/icons?i=gcp,docker,kubernetes,git,github,gitlab&perline=8" alt="Cloud & tooling"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/-Fastify-black?style=for-the-badge&logo=fastify" alt="Fastify"/>
+<img src="https://img.shields.io/badge/-Playwright-black?style=for-the-badge&logo=playwright" alt="Playwright"/>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-black?style=flat-square&logo=kubernetes)
+</div>
 
-##### 🪣&nbsp;&nbsp;&nbsp;Code hosting solutions
+---
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
-![GitLab](https://img.shields.io/badge/-GitLab-black?style=flat-square&logo=gitlab)
+## 🐍&nbsp;&nbsp;My contribution snake
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/antoinezanardi/antoinezanardi/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/antoinezanardi/antoinezanardi/output/github-snake.svg"/>
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/antoinezanardi/antoinezanardi/output/github-snake-dark.svg"/>
+</picture>
+</div>
 
 ---
 
